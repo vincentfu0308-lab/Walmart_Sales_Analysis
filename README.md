@@ -34,6 +34,3 @@ The project uses Walmart sales-related CSV files:
 - `train.csv`
 - `features.csv`
 
-These files are loaded from the raw data folder and combined into one cleaned dataset.
-
-Expected folder structure:
